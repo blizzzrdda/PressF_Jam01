@@ -662,6 +662,42 @@
 					}
 				}
 			}
+		},
+		"/Engine/Transient":
+		{
+			"graphCache":
+			{
+				"B35F1B6D402EC04FB5CE9B97BA2DDFD8":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"E48E0AA845E5FDB984365293F595415B":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/FX/VFX_TeleportSystem":
+		{
+			"graphCache":
+			{
+				"3565492A4764CC3B8BDC67AC1EF950BF":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"1B3D2914470E9CC083EE2AB31DAA70FB":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
 		}
 	},
 	"cacheVersion": 1
