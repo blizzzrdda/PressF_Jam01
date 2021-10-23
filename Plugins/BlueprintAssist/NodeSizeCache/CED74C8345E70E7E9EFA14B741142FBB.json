@@ -1,0 +1,281 @@
+{
+	"packageCache":
+	{
+		"/Engine/Transient":
+		{
+			"graphCache":
+			{
+				"7729EB544078F892FCE91BA6077B477F":
+				{
+					"cachedNodes":
+					{
+						"6D110BE14253ACABD9465BB2E7CFB7AE":
+						{
+							"cachedNodeSize":
+							{
+								"x": 186,
+								"y": 70
+							},
+							"cachedPins":
+							{
+								"17A35D2C4E1391C1451A3292BA2AC316": 55
+							}
+						},
+						"B264679A41BC9459F40C2A83B4953302":
+						{
+							"cachedNodeSize":
+							{
+								"x": 246,
+								"y": 122
+							},
+							"cachedPins":
+							{
+								"DEACD00648DE89D218AD7B9BB68B6F76": 55,
+								"62F1179845A9EC40477A948531CF7C24": 55,
+								"7BA449D14B6935D6283D439337737D8A": 81,
+								"6D41144A4D4DC250F79D8B8930A71C16": 107
+							}
+						},
+						"D63C488446CC86F98DF07899CA14A902":
+						{
+							"cachedNodeSize":
+							{
+								"x": 303,
+								"y": 184
+							},
+							"cachedPins":
+							{
+								"FE534442424BD68546DB408872285BC3": 39,
+								"D7EA33A84A707F3F0869DCBD56C64255": 65,
+								"4E8A10FA4042861430D665B42040A84D": 91,
+								"A849AA8447BF30E7A6AC6098908F3F04": 117,
+								"3B2832FE4BBB26298B2FA7A14BF8AEFE": 143,
+								"14685EB847842BDC16804D98173444D1": 169,
+								"602086454A9C8167E62CB39FD9963D52": 39,
+								"E142E2C2411873F67D86D5A0174974F2": 65,
+								"C084244747DA6C2FB1BF8787A035B184": 91
+							}
+						},
+						"6659648640F0FAA5F8AF759F48135F98":
+						{
+							"cachedNodeSize":
+							{
+								"x": 142,
+								"y": 136
+							},
+							"cachedPins":
+							{
+								"588E9C03478440EBCE26B09BBABE7893": 41
+							}
+						},
+						"0678A0A84052CC5AA5697BAD50B24B01":
+						{
+							"cachedNodeSize":
+							{
+								"x": 97,
+								"y": 108
+							},
+							"cachedPins":
+							{
+								"5E901B9743A004B472C2B8AEEBFBCF46": 41,
+								"B9641F9B4481A8E8A18D458F0AEA8CA3": 67,
+								"1E4C92BC4E7151716E8BD8A16486D17C": 93,
+								"B46B46E04722A3A05690DDB38192CCBB": 41
+							}
+						},
+						"CF28B0CD4BF2EC2B7033C5B2DA10A6AF":
+						{
+							"cachedNodeSize":
+							{
+								"x": 131,
+								"y": 56
+							},
+							"cachedPins":
+							{
+								"8E41498445B6F0B58DC774A71C16D401": 41,
+								"7D7CE8F646BAE431BC24DCBBDDE60F3F": 41
+							}
+						},
+						"96D460CD47F720A69F5C5D83AD22071E":
+						{
+							"cachedNodeSize":
+							{
+								"x": 162,
+								"y": 550
+							},
+							"cachedPins":
+							{
+								"5368A3F845A38FBE8DB367B23AF254B5": 40,
+								"8575B80A41551A38C0E288BA34A6D1E5": 66,
+								"C66455C749851C2C21E79992443BAB41": 92,
+								"F31416354948C3C9122102A32933C7C6": 118,
+								"424C667E45D8849BDDD78D9FE3B374BA": 144,
+								"983108EE49277693EFB389821516D2AA": 170,
+								"9C273FF748777B3B7D911186F5EA4452": 196,
+								"E5F598704FA072D3A7935DB33FDB1CB3": 222,
+								"B3D1F3404CF4718EC6CBD7A4BF3EE54A": 248,
+								"C943A06A47C67AB63EB2BE86F2D65127": 274,
+								"7C27DE9D4A74146232868183AB4BCA4A": 300,
+								"79F2346B4D5D7C989AF22D949CB5B199": 326,
+								"98A637BA47774B2FA8CEE5B78CCA2037": 352,
+								"7A9FF3254F985EE5E803659E66A3B602": 378,
+								"23C713234EB5949E75C727AF203868B8": 404,
+								"30F627DB4B7E7782AAD56FB39C5130BC": 430,
+								"063D884244ABC19B770D3ABBC0107EF2": 456,
+								"B0B0ACA946DCFD5429ED1F92F9686A62": 482,
+								"250D30464C71162C86395C8D46814E5C": 508,
+								"E96311F2485B8A108131F997484F76A5": 534
+							}
+						},
+						"AAA8074C44012E7A4032A08BDB56FAF1":
+						{
+							"cachedNodeSize":
+							{
+								"x": 171,
+								"y": 174
+							},
+							"cachedPins":
+							{
+								"76208A70406A09B0CF3DA589D6CE6D12": 55,
+								"7252C1BD4C10AE49194E25AD617F2CC9": 81,
+								"ACD204E84D182C9D5A9BB3BA3C9ACA90": 107,
+								"CF21D30B4E1531B2A39C1FA546A9EF16": 133,
+								"8AE38ABB4421CA60D5A05CACA2FC707A": 159
+							}
+						},
+						"9EFCB7AE4BE5DD21188F8996AF6F7873":
+						{
+							"cachedNodeSize":
+							{
+								"x": 172,
+								"y": 174
+							},
+							"cachedPins":
+							{
+								"3C3060C647E3CF66CA7C0BB81B4E34D0": 55,
+								"B08451C04F8D79CADD0790843AA77CF6": 81,
+								"65BB3D5A47756DD6429B2F849FA4EE6A": 107,
+								"24C50C884864F545672C249FBF2D15DF": 133,
+								"16B2A2234B1D75D3A32BEBBB3FBFF9B4": 159
+							}
+						},
+						"2385A7ED4BB2AD0E2C97A8A1DCD0F59F":
+						{
+							"cachedNodeSize":
+							{
+								"x": 100,
+								"y": 82
+							},
+							"cachedPins":
+							{
+								"B26F62874B85DD41A3AE2881EFFADCDA": 41,
+								"35CC952F4B7269E80A50B687F814F088": 67,
+								"FB5D0FFA428DB4E2ADA03789565EC077": 41
+							}
+						},
+						"25D8210347EC2157894C7198DFF9C64B":
+						{
+							"cachedNodeSize":
+							{
+								"x": 185,
+								"y": 167
+							},
+							"cachedPins":
+							{
+								"4F2DD0B34885B64A7135E897C05738A2": 72
+							}
+						},
+						"A75EB3C748EEF87D1795F4AAAB454AAA":
+						{
+							"cachedNodeSize":
+							{
+								"x": 131,
+								"y": 56
+							},
+							"cachedPins":
+							{
+								"9F9FF9054A2F66B73DA722BD52CC4250": 41,
+								"49AF980043D91FDDEE5CB9A5EF12603D": 41
+							}
+						},
+						"199CC5DB427F3F49C98E54B983301A8A":
+						{
+							"cachedNodeSize":
+							{
+								"x": 91,
+								"y": 82
+							},
+							"cachedPins":
+							{
+								"014E52BA4946E3AE21D50A878C9AA7B1": 41,
+								"8E38072B4CAEB4D7EC31EE93C1538AD0": 67,
+								"6DD8E84749DF77CFAFAEB48B0A5E9DFC": 41
+							}
+						}
+					}
+				}
+			}
+		},
+		"/Game/Blueprints/Light/BP_Light":
+		{
+			"graphCache":
+			{
+				"0AAEC2D644025D13BAC34A828A00E398":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"0291E2294641FF96C97EB18D0EB2E07D":
+				{
+					"cachedNodes":
+					{
+						"D038B7B24058B70F33EAD0975B38B4E2":
+						{
+							"cachedNodeSize":
+							{
+								"x": 124,
+								"y": 38
+							},
+							"cachedPins":
+							{
+								"3A4DB666473DB93DD00D33AB0BB67AAA": 19,
+								"B295EBD346D1A1903FF34795BA307416": 19
+							}
+						},
+						"967453FC4370EAA6CA1CB9AE9C2F96CF":
+						{
+							"cachedNodeSize":
+							{
+								"x": 227,
+								"y": 162
+							},
+							"cachedPins":
+							{
+								"42156F2D4D0F5157985719A33C49A139": 41,
+								"9D104A014B2D13E058DAFBB6BF46B3B2": 77,
+								"BA10AACD4DA3118D6039FEAA94FDC283": 116,
+								"D16315CC498519A804BE4CB571321632": 146,
+								"04FBE5844807A60EA73A9396470DE7FE": 41
+							}
+						},
+						"ED88EF954D25B23475CB21BFA99FEF97":
+						{
+							"cachedNodeSize":
+							{
+								"x": 227.239990234375,
+								"y": 76
+							},
+							"cachedPins":
+							{
+								"48B2A35745BBBAC22A6F68B2B38F79B4": 58,
+								"D6CAC6CF4C6768D92E95E0A01D15E384": 56
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"cacheVersion": 1
+}
