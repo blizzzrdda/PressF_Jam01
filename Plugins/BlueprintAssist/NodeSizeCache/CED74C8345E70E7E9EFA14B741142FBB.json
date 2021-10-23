@@ -1,6 +1,627 @@
 {
 	"packageCache":
 	{
+		"/Game/Blueprints/Candy/CandyGenerator":
+		{
+			"graphCache":
+			{
+				"634BE9D54C5167658A245EB0F3129632":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Blueprints/Candy/BP_CandyTemplate":
+		{
+			"graphCache":
+			{
+				"E0E530E447CDF79E8AB33D95D48F2FC2":
+				{
+					"cachedNodes":
+					{
+						"561A722A4FF8349CDB61728DD836FF2A":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"73F0A0A34AFD7280FD3E1D89AAD81763": 57,
+								"F6C77B53449B926E294C8FA8997D31BB": 86,
+								"7862080C4FCD3133F4F2C59F4B2A77AE": 57
+							}
+						},
+						"AC4E5F5A448A481F058E48AB8F773CE3":
+						{
+							"cachedNodeSize":
+							{
+								"x": 268,
+								"y": 214
+							},
+							"cachedPins":
+							{
+								"3F51E9854020B7EAD6A1E2B288FA8256": 12,
+								"931853C544C055FE47D397A7B5DEC7C7": 41,
+								"727EBAFF476776EF4A76649EC7AABD02": 68,
+								"80673C8B4AEF0C270B96FA8274A82615": 94,
+								"8F097F6A4F3542036D9507892A27D6CA": 120,
+								"4A7BFCC34E90A3693E9A228C47DD7452": 146,
+								"ECC541F848B12D0FF46B1DAA16DDC68F": 172,
+								"21B4F29E43548E6FFADBDEB9CD43F35B": 198
+							}
+						},
+						"F23FED6348942C70E600A4897C0CFBB2":
+						{
+							"cachedNodeSize":
+							{
+								"x": 198,
+								"y": 114
+							},
+							"cachedPins":
+							{
+								"E27D5EC540B28C308A5DA4B837258996": 41,
+								"AB5F3F0D4F8973A49D360D8ED85704B8": 68,
+								"599D45054C02AA8DA95DDC91CCA6E172": 41,
+								"ACCE18754E537049E6957A8D23701F8B": 69,
+								"997730D744E8C88A10C2F7843F0E41D8": 97
+							}
+						},
+						"DDF1EE314DCC2D322C9148BF34D8DA8E":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"446BA8354BFE402E74FDAE8824891FA9": 17
+							}
+						},
+						"77DB4F414DDBFE89FA0F7F9B8052F683":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"521894FF424A736ED219A2BA3D98671B": 17
+							}
+						},
+						"99D0D729405E14988CF5C9AEB72A14B4":
+						{
+							"cachedNodeSize":
+							{
+								"x": 255,
+								"y": 112
+							},
+							"cachedPins":
+							{
+								"ACBD7C39438A1A729BD5A99903D1E0BE": 41,
+								"F81C19C94F132CE0379ED6ABFB8B26EF": 68,
+								"90F2A0C94A967F23C0429DABFABE3F9C": 41,
+								"BB2AEAE046D9FE69DC29CCB78ABDE7FE": 69,
+								"C1C04C4D4F7CF473F65DEE8A2BAA21E3": 96
+							}
+						},
+						"238FBC504B60ED9531AE16ABBAFE2FE9":
+						{
+							"cachedNodeSize":
+							{
+								"x": 145,
+								"y": 126
+							},
+							"cachedPins":
+							{
+								"D89B050E4EB7D4ADDEBB788D49F05F7C": 57,
+								"DB6E16814F125935251B0CA4724420A1": 84,
+								"D23C60D54F748E63D2FDBD98F6E7140F": 110,
+								"95662D584E296AACCDEC77BEF7BE4E50": 57
+							}
+						},
+						"1FDBBD604EBB0D69A873A780365F5764":
+						{
+							"cachedNodeSize":
+							{
+								"x": 193,
+								"y": 86
+							},
+							"cachedPins":
+							{
+								"76EB716948FC5473DFE8FBA6EE9025FE": 41,
+								"E4CBE50947BDB098755E81946199E603": 68,
+								"EF8F7E2844732FE311E8E39EF6CEA961": 41,
+								"9CB599704AEA9EB18E5CB79E0540BA56": 69
+							}
+						},
+						"D758D8D44DF61647EFF284862A0279D4":
+						{
+							"cachedNodeSize":
+							{
+								"x": 193,
+								"y": 86
+							},
+							"cachedPins":
+							{
+								"76EB716948FC5473DFE8FBA6EE9025FE": 41,
+								"E4CBE50947BDB098755E81946199E603": 68,
+								"EF8F7E2844732FE311E8E39EF6CEA961": 41,
+								"9CB599704AEA9EB18E5CB79E0540BA56": 69
+							}
+						},
+						"2CA2CB9B41EE422DAFB0B49ABD0750F1":
+						{
+							"cachedNodeSize":
+							{
+								"x": 193,
+								"y": 86
+							},
+							"cachedPins":
+							{
+								"76EB716948FC5473DFE8FBA6EE9025FE": 41,
+								"E4CBE50947BDB098755E81946199E603": 68,
+								"EF8F7E2844732FE311E8E39EF6CEA961": 41,
+								"9CB599704AEA9EB18E5CB79E0540BA56": 69
+							}
+						},
+						"17C694A54BFB9110B724ABBDB607429B":
+						{
+							"cachedNodeSize":
+							{
+								"x": 273,
+								"y": 130
+							},
+							"cachedPins":
+							{
+								"CC3A5F1A4E0F8DEF19D097AE66447CB7": 57,
+								"B49E4E7B492416E78DE9B69B8123B506": 84,
+								"E71143C54D0AFD819559679F3FFD4DDF": 112,
+								"68CA49574776C25F01CB788FF39C72DD": 57
+							}
+						},
+						"EED6238B4746E691F3048884C70B99D6":
+						{
+							"cachedNodeSize":
+							{
+								"x": 294,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"5FB645D540DDD891DA7487B9EF640EB4": 17,
+								"2429139F4D4FE89C67DAFC841FE0352B": 17
+							}
+						},
+						"115FC7D44E4B21A30DF7379B10B5C30E":
+						{
+							"cachedNodeSize":
+							{
+								"x": 273,
+								"y": 130
+							},
+							"cachedPins":
+							{
+								"D1D8620145CC0DEA725C65AE3FD9D378": 57,
+								"B9E1E66F48F18073DE3535BE50921094": 84,
+								"29F0668143608AF1581EA6849BA5DCF9": 112,
+								"CA0C64F94779655FA9AF0B8BB1269CBD": 57
+							}
+						},
+						"AED7E0784CCFB67D039569A6F2745476":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"13AB7D9A4F6C7E2DD3A5489222B1370D": 57,
+								"F410B10240CA0C2D2D1A78B0366944FA": 86,
+								"61B29A214DB25BD6E8B7A59BE0F0625C": 57
+							}
+						},
+						"17B442914AD22BAF0F83AC80986FE85A":
+						{
+							"cachedNodeSize":
+							{
+								"x": 294,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"DA4AA3A34350568770012D84038F598D": 17,
+								"EFD865FC49C27D3F8DED70B1443A2143": 17
+							}
+						},
+						"E5FC89EC47CDA05B620228B5E763E8FB":
+						{
+							"cachedNodeSize":
+							{
+								"x": 116,
+								"y": 65
+							},
+							"cachedPins":
+							{
+								"E071A7664FB5A1D5542A34B03A07B51C": 25,
+								"32DCBA9042A221B0F46BA1A060DC23DE": 50.5,
+								"AF8F087D4E4A53F329CEC79A0A1F2F67": 25,
+								"A53CE9134C37DD3E063367BED0A55DFB": 50.5
+							}
+						},
+						"18358DE946EF2F2F44FC6AAD360F270F":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"E0CDEB6A480E94CB35A8C396474E727A": 17
+							}
+						},
+						"DDCE0B5D4712F1E81156339725F42AF7":
+						{
+							"cachedNodeSize":
+							{
+								"x": 142,
+								"y": 59
+							},
+							"cachedPins":
+							{
+								"10C5CF3E49E72D158F7FEEB37289D4D1": 14.5,
+								"D9EF6BB14D055A23A5016DB6BDB60D43": 41,
+								"7ED5DBF44008986D8003AE9736F093DE": 15
+							}
+						},
+						"E9C54C0D451CF49E8F2659B7E24F85CE":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 69
+							},
+							"cachedPins":
+							{
+								"AFE8E1D9408C75463D7F7AB4064B76F3": 25,
+								"329A596046BBA2F4A1F0A1B8A9AC677F": 52,
+								"D45F88A045A5982273326283800F4FAA": 25,
+								"097D8A384B7D2ED31CD65D87342918D2": 52
+							}
+						},
+						"7134DCFF4C27777E1471A2936691EFB7":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"E0CDEB6A480E94CB35A8C396474E727A": 17
+							}
+						},
+						"2E1CEBBF43406007006CB68E67DF8B0E":
+						{
+							"cachedNodeSize":
+							{
+								"x": 142,
+								"y": 59
+							},
+							"cachedPins":
+							{
+								"10C5CF3E49E72D158F7FEEB37289D4D1": 14.5,
+								"D9EF6BB14D055A23A5016DB6BDB60D43": 41,
+								"7ED5DBF44008986D8003AE9736F093DE": 15
+							}
+						},
+						"013D750B4AE4AC0085C639B92C2C8146":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"A703D2C04EED2DAC79F06E8959353385": 57,
+								"BD51E4CE49FBDD6A28027DB4B1406679": 86,
+								"BAD06878479037B7D09BE2A7F7893BA5": 57
+							}
+						},
+						"F0223D1D42F250E49CF07C8722D59168":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"2D7C7011422C9567DBB5BA9A2E7CFC6F": 57,
+								"A22F2BF74B80E43AC1239C8CD2C5AC30": 86,
+								"743621F24E585A86093A9F9775717E99": 57
+							}
+						},
+						"9013A5FB4E0717ECBCFEFCBAAB89F6FB":
+						{
+							"cachedNodeSize":
+							{
+								"x": 154.239990234375,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"A09292424ACDB332B9E4298DBE3D9F03": 57,
+								"E0A3D9AB42A301EAC7BDB6A2F9B52C34": 86,
+								"234967D649AB7917710704A83F498FF7": 57
+							}
+						},
+						"E908332F46902F1757B4ECAC1EE76EF4":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"2D7C7011422C9567DBB5BA9A2E7CFC6F": 57,
+								"A22F2BF74B80E43AC1239C8CD2C5AC30": 86,
+								"743621F24E585A86093A9F9775717E99": 57
+							}
+						},
+						"1E0C7BC94BFF9171745375B2B88B6045":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"A703D2C04EED2DAC79F06E8959353385": 57,
+								"BD51E4CE49FBDD6A28027DB4B1406679": 86,
+								"BAD06878479037B7D09BE2A7F7893BA5": 57
+							}
+						},
+						"739681B2448FDD6BDD5A7CAB625B2867":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"2D7C7011422C9567DBB5BA9A2E7CFC6F": 57,
+								"A22F2BF74B80E43AC1239C8CD2C5AC30": 86,
+								"743621F24E585A86093A9F9775717E99": 57
+							}
+						},
+						"27E68786468BBBA8AD3181AC9D06CA38":
+						{
+							"cachedNodeSize":
+							{
+								"x": 222,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"A703D2C04EED2DAC79F06E8959353385": 57,
+								"BD51E4CE49FBDD6A28027DB4B1406679": 86,
+								"BAD06878479037B7D09BE2A7F7893BA5": 57
+							}
+						}
+					}
+				},
+				"C443E8C54FC4221C57B1E7AE99AC935D":
+				{
+					"cachedNodes":
+					{
+						"CB5EB0C845E1F43F8552269116C31446":
+						{
+							"cachedNodeSize":
+							{
+								"x": 116,
+								"y": 65
+							},
+							"cachedPins":
+							{
+								"AF3CC1684B875EEF9CA02585F733CF0A": 25,
+								"0C6917E14A275174EF49C49410DE2639": 50.5,
+								"3EC6908E432FD4021D2BE5ADA7C07BE9": 25,
+								"EFEF653F4BE82BC8E20671BAE756A4B0": 50.5
+							}
+						},
+						"BCD394864A012710342B28B3D9951546":
+						{
+							"cachedNodeSize":
+							{
+								"x": 167,
+								"y": 58
+							},
+							"cachedPins":
+							{
+								"A27D7D974F12AFD6F95053A11FE25203": 41
+							}
+						},
+						"2EC8BE82495A503335F4F391B46E1700":
+						{
+							"cachedNodeSize":
+							{
+								"x": 171,
+								"y": 56
+							},
+							"cachedPins":
+							{
+								"219E6E604F6ECF4023CCB28B93C5A332": 40,
+								"B6C5F3F940B39CDAA7B8A8984910874F": 40
+							}
+						},
+						"5D734DB0432EC1EF32D9DF899226E699":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"5E388AD348892776EF5511B00605CCA9": 17
+							}
+						},
+						"2A45ABD041DED7F6EBF9B995E2276A4A":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 69
+							},
+							"cachedPins":
+							{
+								"AFE8E1D9408C75463D7F7AB4064B76F3": 25,
+								"329A596046BBA2F4A1F0A1B8A9AC677F": 52,
+								"D45F88A045A5982273326283800F4FAA": 25,
+								"097D8A384B7D2ED31CD65D87342918D2": 52
+							}
+						},
+						"259247DA422AA7DDEBCCAEBDD2D0DEF4":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"E0CDEB6A480E94CB35A8C396474E727A": 17
+							}
+						},
+						"D1A0278D44E8868983FE9897BDA995C0":
+						{
+							"cachedNodeSize":
+							{
+								"x": 142,
+								"y": 59
+							},
+							"cachedPins":
+							{
+								"10C5CF3E49E72D158F7FEEB37289D4D1": 14.5,
+								"D9EF6BB14D055A23A5016DB6BDB60D43": 41,
+								"7ED5DBF44008986D8003AE9736F093DE": 15
+							}
+						},
+						"301542A24B09DA8EC4B97A9BA7C81059":
+						{
+							"cachedNodeSize":
+							{
+								"x": 154.239990234375,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"B19736304A4F4848E57074A8B6E7DF7A": 57,
+								"AEC77C874A373191CB843ABC70B0E890": 86,
+								"1F5683434ABBD5709DF4C7AFAD7BFAAA": 57
+							}
+						}
+					}
+				},
+				"9337C6FD436F59562B9034AE79407549":
+				{
+					"cachedNodes":
+					{
+						"4BDBE73B4E8B6ABC4B7855A0CCCA30F4":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 69
+							},
+							"cachedPins":
+							{
+								"AFE8E1D9408C75463D7F7AB4064B76F3": 25,
+								"329A596046BBA2F4A1F0A1B8A9AC677F": 52,
+								"D45F88A045A5982273326283800F4FAA": 25,
+								"097D8A384B7D2ED31CD65D87342918D2": 52
+							}
+						},
+						"1623214B40F12DA90B61A5A1222000FC":
+						{
+							"cachedNodeSize":
+							{
+								"x": 132,
+								"y": 34
+							},
+							"cachedPins":
+							{
+								"E0CDEB6A480E94CB35A8C396474E727A": 17
+							}
+						},
+						"4EA5F6604211037476A642A41F9A4236":
+						{
+							"cachedNodeSize":
+							{
+								"x": 142,
+								"y": 59
+							},
+							"cachedPins":
+							{
+								"10C5CF3E49E72D158F7FEEB37289D4D1": 14.5,
+								"D9EF6BB14D055A23A5016DB6BDB60D43": 41,
+								"7ED5DBF44008986D8003AE9736F093DE": 15
+							}
+						},
+						"0FACB1F24D60C4325C4D5295E876041C":
+						{
+							"cachedNodeSize":
+							{
+								"x": 154.239990234375,
+								"y": 104
+							},
+							"cachedPins":
+							{
+								"8775B4D741978D49A9C57483DE861AAB": 57,
+								"A1FCDC3C4ACE7D3A3BBF3FBFED1D2C40": 86,
+								"B79D0F4B4589DEC12D3839ABAB908870": 57
+							}
+						},
+						"E675BD944976F44E21740696326C0F4F":
+						{
+							"cachedNodeSize":
+							{
+								"x": 188,
+								"y": 58
+							},
+							"cachedPins":
+							{
+								"E2AD149D4CEA717426AB2989B6353443": 41
+							}
+						}
+					}
+				}
+			}
+		},
+		"/Game/Blueprints/Player/PlayerPropertiesComponent":
+		{
+			"graphCache":
+			{
+				"C0C4886845B32655DEA7F5AF0DD99DD8":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		}
 	},
 	"cacheVersion": 1
 }
