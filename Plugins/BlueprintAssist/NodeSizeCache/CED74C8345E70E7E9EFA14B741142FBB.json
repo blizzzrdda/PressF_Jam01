@@ -35,7 +35,7 @@
 		{
 			"graphCache":
 			{
-				"6863BEF742B2B6C7A19304A6B5912D3A":
+				"2219CAB5412289ABEC9096811A61FF62":
 				{
 					"cachedNodes":
 					{
@@ -84,6 +84,24 @@
 			"graphCache":
 			{
 				"A1CD1DE44E115139FE8D678A08593497":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Blueprints/Player/PlayerPropertiesComponent":
+		{
+			"graphCache":
+			{
+				"92A0317D47DC2990AB39DB924157F8FD":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"2A68F2524F1D3B51C84AB5BB1D5512F4":
 				{
 					"cachedNodes":
 					{
