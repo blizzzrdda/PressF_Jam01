@@ -1532,6 +1532,18 @@
 					}
 				}
 			}
+		},
+		"/Game/Blueprints/Player/TopDownCharacter":
+		{
+			"graphCache":
+			{
+				"CA93B3A041312BFD7447DC83E0ABA7CA":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
 		}
 	},
 	"cacheVersion": 1
