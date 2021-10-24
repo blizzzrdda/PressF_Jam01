@@ -1770,6 +1770,96 @@
 					}
 				}
 			}
+		},
+		"/Game/Blueprints/Player/TopDownController":
+		{
+			"graphCache":
+			{
+				"FA6152E6411FA13E79E74CBFAB9C0021":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"D436CEE94C078CB6BC27A6B822DE6ACC":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"C7CABAF54D3D6203C4B67A91737BC819":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"338A32224E20990CFF513985FFF168C9":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		},
+		"/Game/Blueprints/Player/PlayerPropertiesComponent":
+		{
+			"graphCache":
+			{
+				"92A0317D47DC2990AB39DB924157F8FD":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"8FAF4AC946494E1FC6A56CAE04D1D922":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"29164B72495E342901F2ABA460DF7B2C":
+				{
+					"cachedNodes":
+					{
+						"C7F2A3284DB2FC707E7275BF21C9D151":
+						{
+							"cachedNodeSize":
+							{
+								"x": 335,
+								"y": 450
+							},
+							"cachedPins":
+							{
+								"4BE177B546D858319B2EA3AF6E3FA3D7": 41,
+								"4520ACFE4816DFDD51593D8ABC6E55EB": 77,
+								"D42E2BB54AF88A96B0D5DCB13F9C8EB6": 112,
+								"032F9FC84F6BA1C0250ED3B0736A71D0": 140,
+								"470AEB69422940E54392EEBB55D8ACCE": 179.5,
+								"5A25267F43E866ABD00BD9AA3968CC0C": 228.5,
+								"70BF3179479229C6E265F59C788B785D": 277.5,
+								"851926BC42B44AB1C0413DA0B66850C4": 318,
+								"02625FB54537AFEA8840E8A2378AF7E4": 350,
+								"5242832D40CC8BE994B884B1B89BBE96": 390.50003051757812,
+								"B04E114E42ECC6C4889662BC327007D9": 431.00003051757812,
+								"3AA4D54E4DD8D5DC11018ABEA8D6DFCB": 41,
+								"2FBA1EAE4E489BAE82558E942A6C1679": 68
+							}
+						},
+						"D7F2FB7F42EB756A87F39782EEE17C20":
+						{
+							"cachedNodeSize":
+							{
+								"x": 167,
+								"y": 58
+							},
+							"cachedPins":
+							{
+								"68F127794B41E73BDBED75A085103E39": 41
+							}
+						}
+					}
+				}
+			}
 		}
 	},
 	"cacheVersion": 1
