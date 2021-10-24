@@ -31,18 +31,6 @@
 				}
 			}
 		},
-		"/Engine/Transient":
-		{
-			"graphCache":
-			{
-				"2219CAB5412289ABEC9096811A61FF62":
-				{
-					"cachedNodes":
-					{
-					}
-				}
-			}
-		},
 		"/Game/UMG/UMG_ReSpawn":
 		{
 			"graphCache":
