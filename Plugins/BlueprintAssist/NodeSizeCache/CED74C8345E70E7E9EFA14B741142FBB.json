@@ -2336,18 +2336,6 @@
 					}
 				}
 			}
-		},
-		"/Engine/Transient":
-		{
-			"graphCache":
-			{
-				"57B7633F40026DA9E62289BB485FFEC4":
-				{
-					"cachedNodes":
-					{
-					}
-				}
-			}
 		}
 	},
 	"cacheVersion": 1
